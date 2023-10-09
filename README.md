@@ -2,8 +2,7 @@
 
 A simple implementation of the classic Tetris game using JavaScript, HTML, and CSS.
 
-![Tetris Game Screenshot](![image](https://github.com/TechnoAndy/Testris/assets/47176316/5e147c49-36c4-4fe4-bbf3-09972f4b2157)
-)
+![Tetris](https://github.com/TechnoAndy/Testris/assets/47176316/606d075c-a524-4052-93b5-f6767f2430cb)
 
 ## Features
 
