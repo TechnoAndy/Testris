@@ -20,6 +20,10 @@ A simple implementation of the classic Tetris game using JavaScript, HTML, and C
 - The goal is to complete horizontal lines with Tetriminos to clear them.
 - The game ends when the Tetriminos stack up to the top of the board.
 
+  ## Acknowledgments
+
+- Code Explained for the amazing video tutorials, check out the videos here https://www.youtube.com/@CodeExplained. 
+
 ## Installation
 
 1. Clone this repository to your local machine:
